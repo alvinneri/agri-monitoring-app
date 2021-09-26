@@ -1,0 +1,13 @@
+{
+  "name": "agri-monitoring-app",
+  "displayName": "agri-monitoring-app",
+  "expo": {
+    "name": "agri-monitoring-app",
+    "slug": "agri-monitoring-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Agri-Monitoring-App"
+  }
+}
